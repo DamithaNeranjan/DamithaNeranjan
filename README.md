@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Damitha Mahendra
+
+![Visitor Count](https://profile-counter.glitch.me/{DamithaNeranjan}/count.svg)
 
 <!--
 **DamithaNeranjan/DamithaNeranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
