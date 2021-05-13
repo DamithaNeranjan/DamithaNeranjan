@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Damitha Mahendra
 
-![Visitor Count](https://profile-counter.glitch.me/{DamithaNeranjan}/count.svg)
+[youtube]: https://www.youtube.com/channel/UCoe9sqRlk1NxJx9hWuWCZBA
 
 <!--
 **DamithaNeranjan/DamithaNeranjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
